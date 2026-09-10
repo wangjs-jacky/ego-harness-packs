@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "name": "taobao-shopping",
+  "version": "0.1.0",
+  "description": "淘宝商品只读搜索与比较：搜索候选商品并核验店铺、价格、评价和发货信息，不下单"
+}
