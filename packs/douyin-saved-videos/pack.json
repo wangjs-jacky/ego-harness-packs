@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "name": "douyin-saved-videos",
+  "version": "0.1.0",
+  "description": "抖音收藏视频只读提取：在用户授权下按页面顺序获取前 N 个去重视频，不修改收藏"
+}
